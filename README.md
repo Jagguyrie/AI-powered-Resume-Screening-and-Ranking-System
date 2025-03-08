@@ -121,7 +121,3 @@ For any questions or inquiries, please contact:
 
 [Jagrut Lade]
 [jagguyrie@gmail.com]
-
-```
-**Note:** Replace `[repository_url]`, `[repository_directory]`, `[Your Name/Organization]`, and `[Your Email]` with your actual information. Also, create a `requirements.txt` file by running `pip freeze > requirements.txt` in your virtual environment and add a `LICENSE` file if you intend to use a specific license.
-```
