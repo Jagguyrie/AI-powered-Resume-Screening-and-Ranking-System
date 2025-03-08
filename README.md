@@ -113,7 +113,7 @@ Contributions are welcome\! If you find any issues or have suggestions for impro
 
 ## License
 
-This project is licensed under the [MIT License](https://www.google.com/url?sa=E&source=gmail&q=LICENSE).
+This project is licensed under the [GNU GPL 3.0 License]([https://www.google.com/url?sa=E&source=gmail&q=LICENSE](https://www.gnu.org/licenses/gpl-3.0.html)).
 
 ## Contact
 
